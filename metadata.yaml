@@ -1,11 +1,16 @@
 _repo: Types-of-Prose-Narratives_64210
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64210-h/images/cover.jpg
 creator:
   author:
     agent_name: Fansler, Harriott Ely
     gutenberg_agent_id: '52800'
     url: http://www.gutenberg.org/2009/agents/52800
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64210#Types-of-Prose-Narratives
 gutenberg_issued: '2021-01-04'
 gutenberg_type: Text
 identifiers:
